@@ -1,3 +1,4 @@
-# CTI
-School Projects
-# This is a repository of my school projects
+# CTI 110 Repository
+Created for P2LAB
+Atchison
+23 September 2018
